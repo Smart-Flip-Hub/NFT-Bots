@@ -1,0 +1,19 @@
+{
+    "auth_method": "mnemonic",
+    "mnemonic": "",
+    "private_key": "",
+    "account_address": "",
+    "show_part": true,
+    "rate_limit": {
+        "GET": 12,
+        "POST": 4
+    },
+    "ethereum_node_url": "https://rpc.ankr.com/eth",
+    "telegram_config": {
+        "bot_token": "",
+        "chat_id": 1
+    },
+    "auto_deposit": true,
+    "min_deposit_amount": 0,
+    "license_key": ""
+}

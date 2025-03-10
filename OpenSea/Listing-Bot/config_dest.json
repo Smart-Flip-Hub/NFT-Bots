@@ -1,0 +1,19 @@
+{
+    "auth_method": "mnemonic",
+    "mnemonic": "",
+    "private_key": "",
+    "account_address": "",
+    "show_part": true,
+    "rate_limit": {
+        "OpenSea": {
+            "POST": 2
+        },
+        "OpenSea2": {
+            "POST": 16
+        }
+    },
+    "ethereum_node_url": "https://rpc.ankr.com/eth",
+    "sleep_time_parameter": 10,
+    "nfts_dirpath": "",
+    "license_key": ""
+}

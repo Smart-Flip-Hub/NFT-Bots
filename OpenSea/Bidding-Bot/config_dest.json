@@ -1,0 +1,25 @@
+{
+    "auth_method": "mnemonic",
+    "mnemonic": "",
+    "private_key": "",
+    "account_address": "",
+    "show_part": true,
+    "rate_limit": {
+        "OpenSea": {
+            "POST": 16
+        },
+        "OpenSeaAPI": {
+            "GET": 2
+        },
+        "Blur": {
+            "GET": 12,
+            "POST": 4
+        }
+    },
+    "use_api": false,
+    "ethereum_node_url": "https://rpc.ankr.com/eth",
+    "auto_wrap": false,
+    "min_wrap_amount": 0,
+    "collections_dirpath": "",
+    "license_key": ""
+}
